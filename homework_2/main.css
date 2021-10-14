@@ -1,0 +1,34 @@
+body {
+    color: #fcfaff;
+    background-image: url("https://mocah.org/uploads/posts/896059-The-Witcher-logo-wolf-steel-blood-open-mouth-fangs.jpg");
+    background-size: cover;
+}
+
+.align {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p b {
+    color: #fff556;
+    size: 10em;
+}
+
+div p b {
+    color: #da0c09
+}
+
+.color_h1 {
+    color: #ffdbc1;
+}
+
+.main_link:hover {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.main_link:visited {
+    color: grey;
+}
